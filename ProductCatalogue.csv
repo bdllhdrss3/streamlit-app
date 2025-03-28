@@ -1,0 +1,26 @@
+ProductID,ProductName,ProductDescription,Category,Tier,ProductPrice
+P001,HealthLow1,Low tier health subscription (Product #1) with special features.,Health,Low,528
+P002,HealthLow2,Low tier health subscription (Product #2) with special features.,Health,Low,877
+P003,GamingMid3,Mid tier gaming subscription (Product #3) with special features.,Gaming,Mid,1103
+P004,GamingLow4,Low tier gaming subscription (Product #4) with special features.,Gaming,Low,377
+P005,HealthPremium5,Premium tier health subscription (Product #5) with special features.,Health,Premium,6874
+P006,HealthLow6,Low tier health subscription (Product #6) with special features.,Health,Low,249
+P007,EducationPremium7,Premium tier education subscription (Product #7) with special features.,Education,Premium,13148
+P008,EducationPremium8,Premium tier education subscription (Product #8) with special features.,Education,Premium,17838
+P009,VideoPremium9,Premium tier video subscription (Product #9) with special features.,Video,Premium,17767
+P010,GamingPremium10,Premium tier gaming subscription (Product #10) with special features.,Gaming,Premium,11993
+P011,MusicLow11,Low tier music subscription (Product #11) with special features.,Music,Low,367
+P012,GamingMid12,Mid tier gaming subscription (Product #12) with special features.,Gaming,Mid,1891
+P013,GamingLow13,Low tier gaming subscription (Product #13) with special features.,Gaming,Low,842
+P014,HealthMid14,Mid tier health subscription (Product #14) with special features.,Health,Mid,1655
+P015,EducationLow15,Low tier education subscription (Product #15) with special features.,Education,Low,802
+P016,GamingPremium16,Premium tier gaming subscription (Product #16) with special features.,Gaming,Premium,13043
+P017,HealthLow17,Low tier health subscription (Product #17) with special features.,Health,Low,891
+P018,HealthPremium18,Premium tier health subscription (Product #18) with special features.,Health,Premium,14283
+P019,MusicLow19,Low tier music subscription (Product #19) with special features.,Music,Low,495
+P020,EducationLow20,Low tier education subscription (Product #20) with special features.,Education,Low,951
+P021,HealthPremium21,Premium tier health subscription (Product #21) with special features.,Health,Premium,18979
+P022,GamingMid22,Mid tier gaming subscription (Product #22) with special features.,Gaming,Mid,4776
+P023,EducationLow23,Low tier education subscription (Product #23) with special features.,Education,Low,759
+P024,MusicLow24,Low tier music subscription (Product #24) with special features.,Music,Low,423
+P025,HealthMid25,Mid tier health subscription (Product #25) with special features.,Health,Mid,4421

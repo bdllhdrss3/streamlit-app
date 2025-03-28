@@ -1,0 +1,21 @@
+MSISDN,DemographicSegment,AvgDataLast90Days (GB),AvgVoiceLast90Days (min),AvgSMSLast90Days,RechargeFreq,DeviceType,CurrentPlan,VASUsed,ARPU
+771000001,Youth,2.3,50,40,6/mo,Android,BasicPrepaid,Music,10.5
+771000002,Professional,5.8,180,10,2/mo,iPhone,Postpaid10,None,28.0
+771000003,Family,1.2,25,5,4/mo,Android,BasicPrepaid,"KidsTV, Music",8.75
+771000004,Senior,0.5,10,2,1/mo,FeaturePhone,BasicPrepaid,None,3.5
+771000005,Youth,12.0,75,15,5/mo,Android,BasicPrepaid,"Music, Streaming",13.2
+771000006,Professional,3.4,100,5,3/mo,iPhone,Postpaid20,None,35.0
+771000007,Family,6.1,60,8,3/mo,Android,BasicPrepaid,Music,14.0
+771000008,Youth,4.9,55,25,4/mo,Android,PremiumPrepaid,"Gaming, Music",16.5
+771000009,Professional,9.2,210,3,2/mo,iPhone,Postpaid20,Streaming,40.0
+771000010,Family,2.0,45,12,4/mo,Android,BasicPrepaid,None,9.25
+771000011,Senior,0.9,15,3,1/mo,FeaturePhone,BasicPrepaid,None,4.0
+771000012,Professional,10.5,250,2,2/mo,iPhone,Postpaid10,Streaming,32.75
+771000013,Youth,8.3,90,30,4/mo,Android,BasicPrepaid,"Music, Gaming",17.0
+771000014,Professional,4.2,120,6,3/mo,Android,Postpaid10,Streaming,25.5
+771000015,Family,1.8,40,10,3/mo,Android,BasicPrepaid,KidsTV,7.0
+771000016,Youth,15.7,100,18,5/mo,iPhone,PremiumPrepaid,"Music, Streaming, Gaming",22.0
+771000017,Family,3.1,80,9,3/mo,Android,BasicPrepaid,"Music, KidsTV",11.4
+771000018,Professional,7.9,300,5,2/mo,iPhone,Postpaid20,None,45.9
+771000019,Youth,5.0,65,25,4/mo,Android,BasicPrepaid,"Gaming, Streaming",15.75
+771000020,Senior,0.4,8,1,1/mo,FeaturePhone,BasicPrepaid,None,2.95
