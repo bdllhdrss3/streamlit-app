@@ -1,1 +1,6 @@
 /env
+/dist
+/build
+/.history
+/build_standalone_exe.bat
+/build_executable.bat

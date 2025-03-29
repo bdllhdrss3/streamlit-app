@@ -1,26 +1,26 @@
 ProductID,ProductName,ProductDescription,Category,Tier,ProductPrice
-P001,HealthLow1,Low tier health subscription (Product #1) with special features.,Health,Low,528
-P002,HealthLow2,Low tier health subscription (Product #2) with special features.,Health,Low,877
-P003,GamingMid3,Mid tier gaming subscription (Product #3) with special features.,Gaming,Mid,1103
-P004,GamingLow4,Low tier gaming subscription (Product #4) with special features.,Gaming,Low,377
-P005,HealthPremium5,Premium tier health subscription (Product #5) with special features.,Health,Premium,6874
-P006,HealthLow6,Low tier health subscription (Product #6) with special features.,Health,Low,249
-P007,EducationPremium7,Premium tier education subscription (Product #7) with special features.,Education,Premium,13148
-P008,EducationPremium8,Premium tier education subscription (Product #8) with special features.,Education,Premium,17838
-P009,VideoPremium9,Premium tier video subscription (Product #9) with special features.,Video,Premium,17767
-P010,GamingPremium10,Premium tier gaming subscription (Product #10) with special features.,Gaming,Premium,11993
-P011,MusicLow11,Low tier music subscription (Product #11) with special features.,Music,Low,367
-P012,GamingMid12,Mid tier gaming subscription (Product #12) with special features.,Gaming,Mid,1891
-P013,GamingLow13,Low tier gaming subscription (Product #13) with special features.,Gaming,Low,842
-P014,HealthMid14,Mid tier health subscription (Product #14) with special features.,Health,Mid,1655
-P015,EducationLow15,Low tier education subscription (Product #15) with special features.,Education,Low,802
-P016,GamingPremium16,Premium tier gaming subscription (Product #16) with special features.,Gaming,Premium,13043
-P017,HealthLow17,Low tier health subscription (Product #17) with special features.,Health,Low,891
-P018,HealthPremium18,Premium tier health subscription (Product #18) with special features.,Health,Premium,14283
-P019,MusicLow19,Low tier music subscription (Product #19) with special features.,Music,Low,495
-P020,EducationLow20,Low tier education subscription (Product #20) with special features.,Education,Low,951
-P021,HealthPremium21,Premium tier health subscription (Product #21) with special features.,Health,Premium,18979
-P022,GamingMid22,Mid tier gaming subscription (Product #22) with special features.,Gaming,Mid,4776
-P023,EducationLow23,Low tier education subscription (Product #23) with special features.,Education,Low,759
-P024,MusicLow24,Low tier music subscription (Product #24) with special features.,Music,Low,423
-P025,HealthMid25,Mid tier health subscription (Product #25) with special features.,Health,Mid,4421
+P001,MTN Data Basic,1GB data bundle with 7-day validity and social media access.,Data,Low,528
+P002,MTN Voice Plus,100 minutes any-network calls with 30-day validity and free night calls.,Voice,Low,877
+P003,GamersHub Plus,Access to 100+ mobile games with weekly new releases and multiplayer features.,Gaming,Mid,1103
+P004,MTN DataFlex,5GB data bundle with unlimited social media and 30-day validity.,Data,Low,377
+P005,MTN Ultimate Connect,50GB data + unlimited calls to all networks with 3 months validity.,Bundle,Premium,6874
+P006,MTN Voice Lite,50 minutes any-network calls with weekend bonus minutes.,Voice,Low,249
+P007,MTN EduMaster Pro,Full access to premium educational content including international certifications.,Education,Premium,13148
+P008,MTN Infinity Plus,100GB data + unlimited MTN calls with premium content subscription.,Bundle,Premium,17838
+P009,MTN StreamMax Ultra,Premium streaming service with 4K content and offline downloads.,Video,Premium,17767
+P010,MTN Business Elite,Unlimited data + international calls package for business users.,Bundle,Premium,11993
+P011,MTN Voice Freedom,200 minutes any-network calls with free weekend calls.,Voice,Low,367
+P012,MTN DataMax Plus,20GB data with unlimited night browsing and streaming.,Data,Mid,1891
+P013,MTN GameLite,Basic gaming package with casual games and weekly rewards.,Gaming,Low,842
+P014,MTN HealthPlus,Advanced health tracking with personalized coaching and nutrition plans.,Health,Mid,1655
+P015,MTN LearnStart,Basic educational package with essential learning tools and courses.,Education,Low,802
+P016,MTN GameMaster Elite,Premium gaming with exclusive content and professional coaching.,Gaming,Premium,13043
+P017,MTN Voice Premium,Unlimited MTN calls + 500 minutes other networks.,Voice,Low,891
+P018,MTN HealthGuard Pro,Premium health package with family coverage and specialist access.,Health,Premium,14283
+P019,MTN DataFlex Pro,30GB data with unlimited social media and video streaming.,Data,Low,495
+P020,MTN EduBasic,Essential educational content with basic course access.,Education,Low,951
+P021,MTN All-In-One Elite,Unlimited data + calls + premium content subscriptions.,Bundle,Premium,18979
+P022,MTN GamersChoice Plus,Enhanced gaming package with competitive features and rewards.,Gaming,Mid,4776
+P023,MTN Data Student,10GB data with educational sites bonus and 30-day validity.,Data,Low,759
+P024,MTN Voice Starter,25 minutes any-network calls with SMS bundle.,Voice,Low,423
+P025,MTN HealthCare Plus,Advanced health package with telehealth services and wellness programs.,Health,Mid,4421

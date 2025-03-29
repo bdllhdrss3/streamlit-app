@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  mtn-recommendation-system:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./:/app
+    environment:
+      - GOOGLE_APPLICATION_CREDENTIALS=/app/hackathon2025-454908-0a52f19ef9b1.json
